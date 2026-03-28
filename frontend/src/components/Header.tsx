@@ -7,7 +7,7 @@ export default function Header() {
         <ListTodo className="text-white w-6 h-6" />
       </div>
       <h1 className="text-2xl font-bold tracking-tight text-slate-800">
-        My Tasks by Hyodo
+        My Tasks 22
       </h1>
     </header>
   );
